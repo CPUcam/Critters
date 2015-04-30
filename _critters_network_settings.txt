@@ -1,0 +1,6 @@
+#CS 312 Critters saved network settings
+#Tue Apr 28 23:11:59 CDT 2015
+backgroundColors=true
+lastHostName=
+accept=ask
+fps=11
